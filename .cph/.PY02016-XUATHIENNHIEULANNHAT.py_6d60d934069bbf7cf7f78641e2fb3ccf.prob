@@ -1,0 +1,1 @@
+{"name":"Local: PY02016-XUATHIENNHIEULANNHAT","url":"d:\\PYTHON\\PY02016-XUATHIENNHIEULANNHAT.py","tests":[{"id":1757731239891,"input":"2\n9\n3 3 4 2 4 4 2 4 4\n8\n3 3 4 2 4 4 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY02016-XUATHIENNHIEULANNHAT.py","group":"local","local":true}

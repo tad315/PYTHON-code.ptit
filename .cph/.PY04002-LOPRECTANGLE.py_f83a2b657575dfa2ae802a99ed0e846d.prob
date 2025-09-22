@@ -1,0 +1,1 @@
+{"name":"Local: PY04002-LOPRECTANGLE","url":"d:\\PYTHON\\PY04002-LOPRECTANGLE.py","tests":[{"id":1758509365069,"input":"10 2 RED","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY04002-LOPRECTANGLE.py","group":"local","local":true}

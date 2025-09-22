@@ -1,0 +1,1 @@
+{"name":"Local: PY01071-PYTHONFILE","url":"d:\\PYTHON\\PY01071-PYTHONFILE.py","tests":[{"id":1757308832859,"input":"abc.py","output":""},{"id":1757309222927,"input":"abc.pin","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY01071-PYTHONFILE.py","group":"local","local":true}

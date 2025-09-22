@@ -1,0 +1,1 @@
+{"name":"Local: PY03008-DOTHIHINHSAO","url":"d:\\PYTHON\\PY03008-DOTHIHINHSAO.py","tests":[{"id":1757300655318,"input":"5\n1 2\n1 3\n1 4\n1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY03008-DOTHIHINHSAO.py","group":"local","local":true}

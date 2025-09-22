@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0106-DOICOSO2","url":"d:\\PYTHON\\ICPC0106-DOICOSO2.py","tests":[{"id":1757937714904,"input":"2\n8\n10010100010010101\n2\n10010100010010101","output":"224225\n10010100010010101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\ICPC0106-DOICOSO2.py","group":"local","local":true}

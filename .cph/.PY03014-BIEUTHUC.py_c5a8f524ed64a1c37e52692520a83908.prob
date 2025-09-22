@@ -1,0 +1,1 @@
+{"name":"Local: PY03014-BIEUTHUC","url":"d:\\PYTHON\\PY03014-BIEUTHUC.py","tests":[{"id":1757301049288,"input":"2\n(a + (b *c) ) + (d/e)\n( ( () ) ( () ) )","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY03014-BIEUTHUC.py","group":"local","local":true}
