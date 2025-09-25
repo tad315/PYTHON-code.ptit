@@ -1,0 +1,1 @@
+{"name":"Local: PY04009-LOPSOPHUC","url":"d:\\PYTHON\\PY04009-LOPSOPHUC.py","tests":[{"id":1758527628062,"input":"3\n1 2 3 4\n2 3 4 5\n1 -2 5 -6","output":"-8 + 14i, -20 + 48i\n-12 + 34i, -28 + 96i\n-10 - 20i, -28 - 96i"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY04009-LOPSOPHUC.py","group":"local","local":true}
