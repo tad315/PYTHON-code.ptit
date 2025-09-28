@@ -1,0 +1,1 @@
+{"name":"Local: PY04019-TUYENNHANVIEN","url":"d:\\PYTHON\\PY04019-TUYENNHANVIEN.py","tests":[{"id":1759068399222,"input":"3\nNguyen Thai Binh\n45\n75\nLe Cong Hoa\n4\n4.5\nPhan Van Duc\n56\n56","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\PY04019-TUYENNHANVIEN.py","group":"local","local":true}
