@@ -1,22 +1,24 @@
-def change(n, b, X):
-    if b == 2: return X
-    gr = {4: 2, 8: 3, 16: 4}[b]
-    while len(X) % gr != 0:
-        X = '0' + X
-    digits = "0123456789ABCDEF"
-    res = []
-    for i in range(0, len(X), gr):
-        tmp = X[i: i + gr]
-        val = int(tmp, 2)
-        res.append(digits[val])
-    return "".join(res).lstrip('0') or '0'
+from math import log2
+a = []
+for i in range(10):
+    a.append(i)
+for i in range(10, 16):
+    a.append(str(chr(i + 55)))
 
-with open("DATA.in") as fin, open("DATA.out", "w") as fout:
-    for _ in range(int(fin.readline().strip())):
-        b = int(fin.readline().strip())
-        X = fin.readline().strip()
-        if b == 2: 
-            fout.write(X + "\n")
-        else:
-            n = int(X, 2)
-            fout.write(change(n, b, X) + "\n")
+with open("DATA.in") as file:
+    for _ in range(int(file.readline().strip())):
+        b = int(file.readline().strip())
+        s = file.readline().strip()
+        b = int(log2(b))
+        x = s
+        while len(s) % b:
+            s = "0" + s
+        ans = ""
+        for i in range(0, len(s), b):
+            tmp = s[i:i + b]
+            tmp = tmp[::-1]
+            sum = 0
+            for j, num in enumerate(tmp):
+                sum += (1 << j) * int(num)
+            ans += str(a[sum])
+        print(ans if b != 2 else x)
