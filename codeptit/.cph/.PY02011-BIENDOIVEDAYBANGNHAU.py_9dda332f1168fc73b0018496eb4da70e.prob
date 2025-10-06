@@ -1,0 +1,1 @@
+{"name":"Local: PY02011-BIENDOIVEDAYBANGNHAU","url":"d:\\PYTHON\\codeptit\\PY02011-BIENDOIVEDAYBANGNHAU.py","tests":[{"id":1759719722325,"input":"8\n13 5 8 7 9 15 26 34","output":"59 13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PY02011-BIENDOIVEDAYBANGNHAU.py","group":"local","local":true}

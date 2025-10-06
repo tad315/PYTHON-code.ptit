@@ -1,0 +1,1 @@
+{"name":"Local: PYKT039-DAYSOPHUHOP","url":"d:\\PYTHON\\codeptit\\PYKT039-DAYSOPHUHOP.py","tests":[{"id":1759680168906,"input":"2\n4\n7 5 3 2\n5 4 8 7\n8\n7 5 3 2 5 105 45 10\n2 4 0 5 6 9 75 84 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PYKT039-DAYSOPHUHOP.py","group":"local","local":true}
