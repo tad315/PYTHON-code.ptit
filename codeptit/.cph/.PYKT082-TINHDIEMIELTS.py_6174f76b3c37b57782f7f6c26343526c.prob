@@ -1,0 +1,1 @@
+{"name":"Local: PYKT082-TINHDIEMIELTS","url":"d:\\PYTHON\\codeptit\\PYKT082-TINHDIEMIELTS.py","tests":[{"id":1761021340819,"input":"2\n15 25 5.0 5.5\n22 32 6.0 6.0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PYKT082-TINHDIEMIELTS.py","group":"local","local":true}
