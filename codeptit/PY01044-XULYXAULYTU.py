@@ -1,0 +1,8 @@
+s1 = input().strip().lower().split()
+s2 = input().strip().lower().split()
+set1 = set(s1)
+set2 = set(s2)
+hop = sorted(set1 | set2)
+giao = sorted(set1 & set2)
+print(*hop)
+print(*giao)

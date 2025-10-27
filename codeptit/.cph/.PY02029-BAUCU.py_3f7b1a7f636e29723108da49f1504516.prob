@@ -1,0 +1,1 @@
+{"name":"Local: PY02029-BAUCU","url":"d:\\PYTHON\\codeptit\\PY02029-BAUCU.py","tests":[{"id":1761525077339,"input":"10 4\n2 3 1 2 3 4 1 2 3 2","output":""},{"id":1761525118735,"input":"8 4\n1 2 3 4 4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PY02029-BAUCU.py","group":"local","local":true}

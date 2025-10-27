@@ -1,0 +1,1 @@
+{"name":"Local: PY02025-TAPHOPSONGUYEN","url":"d:\\PYTHON\\codeptit\\PY02025-TAPHOPSONGUYEN.py","tests":[{"id":1761521268089,"input":"5 6\n1 2 3 4 5\n3 4 5 6 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PY02025-TAPHOPSONGUYEN.py","group":"local","local":true}

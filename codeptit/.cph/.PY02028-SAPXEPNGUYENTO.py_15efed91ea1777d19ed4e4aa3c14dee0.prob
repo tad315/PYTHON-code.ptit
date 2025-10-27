@@ -1,0 +1,1 @@
+{"name":"Local: PY02028-SAPXEPNGUYENTO","url":"d:\\PYTHON\\codeptit\\PY02028-SAPXEPNGUYENTO.py","tests":[{"id":1761523590316,"input":"8\n4 6 3 8 7 2 5 9","output":"4 6 2 8 3 5 7 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PY02028-SAPXEPNGUYENTO.py","group":"local","local":true}

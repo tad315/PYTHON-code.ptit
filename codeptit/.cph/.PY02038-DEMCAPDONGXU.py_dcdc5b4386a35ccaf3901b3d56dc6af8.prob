@@ -1,0 +1,1 @@
+{"name":"Local: PY02038-DEMCAPDONGXU","url":"d:\\PYTHON\\codeptit\\PY02038-DEMCAPDONGXU.py","tests":[{"id":1761107866240,"input":"4\nCC..\nC..C\n.CC.\n.CC.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PY02038-DEMCAPDONGXU.py","group":"local","local":true}
