@@ -1,0 +1,1 @@
+{"name":"Local: PY02041-TONGSONGUYENLON","url":"d:\\PYTHON\\codeptit\\PY02041-TONGSONGUYENLON.py","tests":[{"id":1761528021672,"input":"121212121212121212\n45678978","output":"121212121257800190"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PY02041-TONGSONGUYENLON.py","group":"local","local":true}
