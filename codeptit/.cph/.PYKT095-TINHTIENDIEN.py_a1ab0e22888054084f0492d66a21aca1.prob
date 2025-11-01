@@ -1,0 +1,1 @@
+{"name":"Local: PYKT095-TINHTIENDIEN","url":"d:\\PYTHON\\codeptit\\PYKT095-TINHTIENDIEN.py","tests":[{"id":1761969469987,"input":"2\n nGuyEn Hong Ngat\nC 200 278\n Chu thi    minh\nA 120 160","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PYKT095-TINHTIENDIEN.py","group":"local","local":true}

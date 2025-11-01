@@ -1,0 +1,1 @@
+{"name":"Local: PYKT093-TINHDIEMTRUNGBINH","url":"d:\\PYTHON\\codeptit\\PYKT093-TINHDIEMTRUNGBINH.py","tests":[{"id":1761958430308,"input":"2\n ha Thi kieu     anh\n7\n6\n7\nPham    THI  HAO\n6\n7\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PYKT093-TINHDIEMTRUNGBINH.py","group":"local","local":true}
