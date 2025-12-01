@@ -1,0 +1,1 @@
+{"name":"Local: PYKT069-DANHSACHCATHI","url":"d:\\PYTHON\\codeptit\\PYKT069-DANHSACHCATHI.py","tests":[{"id":1762019176795,"input":"2\n09/01/2022\n15:30\n70172\n09/01/2022\n10:00\n70279","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PYTHON\\codeptit\\PYKT069-DANHSACHCATHI.py","group":"local","local":true}
